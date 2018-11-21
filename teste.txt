@@ -1,0 +1,10 @@
+<!doctype>
+<html lang = "pt-br">
+	<head>
+		<title> Cadastro de Clientes </title>
+	</head>
+<body>
+	<h1>Bem vindo ao projeto Jvenas
+</body>
+
+</hmtl>
